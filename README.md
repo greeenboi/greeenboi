@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=greeenboi)
 - 👋 Hi, I’m @greeenboi
 - 👀 I’m interested in deep learning and web development
 - 🌱 I’m currently learning python and rust
