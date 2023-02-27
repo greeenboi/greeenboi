@@ -1,6 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=greeenboi)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=999&color=8A04ED&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+greeenboi;%F0%9F%91%80+I%E2%80%99m+interested+in+deep+learning+and+web+development;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+python+and+rust;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+web+development+projects)](https://git.io/typing-svg)
+<h2>
+<p align="center">
+  <b>Student,AI/ML enthusiast</b>
+</p>
+</h2>
 
 
 <!---
@@ -8,7 +13,7 @@ greeenboi/greeenboi is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-***
+
 
 <a href="https://github.com/greeenboi">
   
@@ -17,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ***
+
 
 ## My Favorite Projects
 (click to expand)
@@ -49,7 +55,10 @@ You can click the Preview link to take a look at your changes.
   </a>
  </details>
  
- 
+## Contact me:
+
+<a href="https://suvangs.netlify.app/">My Website</a>
+
  
  
 
