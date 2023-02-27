@@ -23,6 +23,17 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
+<p align="center">
+  Skills
+
+|Domains|Data      |
+|---|-------|
+|Languages| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">|
+|Tools & Software|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">|
+  
+</p>
+  
+***
 
 ## My Favorite Projects
 (click to expand)
