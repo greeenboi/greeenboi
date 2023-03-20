@@ -65,11 +65,19 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=Volume-control-with-hand-detection&show_owner=true&show_icons=true&theme=synthwave">
   </a>
  </details>
- 
+
+## Achievements
+
+![microsoft-certified-azure-ai-fundamentals](https://user-images.githubusercontent.com/118198968/226444495-c37c2eb8-63e7-4320-9ff0-5cb526e4a4e7.png)
+
+
+
+
 ## Contact me:
 
 <a href="https://suvangs.netlify.app/">My Website</a>
 
  
  
+
 
