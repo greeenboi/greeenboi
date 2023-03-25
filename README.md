@@ -70,8 +70,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href ="https://www.credly.com/badges/44ac2fcd-0d6d-46a6-9942-439e68afaf66/public_url">![microsoft-certified-azure-ai-fundamentals](https://user-images.githubusercontent.com/118198968/226444495-c37c2eb8-63e7-4320-9ff0-5cb526e4a4e7.png)</a>
 
+![cpp gold badge](https://user-images.githubusercontent.com/118198968/227723940-65f60bd8-024c-48a8-812b-6da679eaaf91.png)
 
-
+***
 
 ## Contact me:
 
@@ -79,5 +80,6 @@ You can click the Preview link to take a look at your changes.
 
  
  
+
 
 
