@@ -60,6 +60,13 @@ You can click the Preview link to take a look at your changes.
  </details>
    <br>
 <details id=4 closed>
+  <summary><h3>Weather Forecast App<h3></summary>
+  <a href="https://github.com/greeenboi/Weather-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=Weather-app&show_owner=true&show_icons=true&theme=synthwave"/>
+  </a>
+  </details>
+  <br>
+<details id=5 closed>
   <summary><h3>Volume control with opencv and mediapipe</h3></summary>
   <a href="https://github.com/greeenboi/Volume-control-with-hand-detection">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=Volume-control-with-hand-detection&show_owner=true&show_icons=true&theme=synthwave">
