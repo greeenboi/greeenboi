@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/greeenboi">
   
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&theme=synthwave"/>
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greeenboi&text_bold&count_private=true&show_icons=true&layout=compact&theme=synthwave"/>
+<img height="250em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&theme=synthwave"/>
+<img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=greeenboi&text_bold&count_private=true&show_icons=true&layout=compact&theme=synthwave"/>
 </a>
 
 ***
@@ -41,35 +41,35 @@ You can click the Preview link to take a look at your changes.
 <details id=1 closed>
   <summary><h3>Snake game</h3></summary>
   <a href="https://github.com/greeenboi/Snake-Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=Snake-Game&show_owner=true&show_icons=true&theme=synthwave">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=greeenboi&repo=Snake-Game&show_owner=true&show_icons=true&theme=synthwave">
   </a>
  </details>
  <br>
 <details id=2 closed>
   <summary><h3>My profile website</h3></summary>
   <a href="https://github.com/greeenboi/Suvans-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=Suvans-website&show_owner=true&show_icons=true&theme=synthwave">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=greeenboi&repo=Suvans-website&show_owner=true&show_icons=true&theme=synthwave">
   </a>
  </details>
   <br>
 <details id=3 closed>
   <summary><h3>Weather API website</h3></summary>
   <a href="https://github.com/greeenboi/weather-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=weather-website&show_owner=true&show_icons=true&theme=synthwave">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=greeenboi&repo=weather-website&show_owner=true&show_icons=true&theme=synthwave">
   </a>
  </details>
    <br>
 <details id=4 closed>
   <summary><h3>Weather Forecast App<h3></summary>
   <a href="https://github.com/greeenboi/Weather-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=Weather-app&show_owner=true&show_icons=true&theme=synthwave"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=greeenboi&repo=Weather-app&show_owner=true&show_icons=true&theme=synthwave"/>
   </a>
   </details>
   <br>
 <details id=5 closed>
   <summary><h3>Volume control with opencv and mediapipe</h3></summary>
   <a href="https://github.com/greeenboi/Volume-control-with-hand-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greeenboi&repo=Volume-control-with-hand-detection&show_owner=true&show_icons=true&theme=synthwave">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=greeenboi&repo=Volume-control-with-hand-detection&show_owner=true&show_icons=true&theme=synthwave">
   </a>
  </details>
 
