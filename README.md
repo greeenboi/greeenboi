@@ -14,13 +14,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-<a href="https://github.com/greeenboi">
-  
-<img height="250em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&theme=synthwave"/>
-<img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=greeenboi&text_bold&count_private=true&show_icons=true&layout=compact&theme=synthwave"/>
-</a><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=greeenboi&theme=synthwave&fire=A1EB02"/>
+<p float = "left">  
+<img height="250em" width="500em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&theme=synthwave"/> <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=greeenboi&text_bold&count_private=true&show_icons=true&layout=compact&theme=synthwave"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=greeenboi&theme=synthwave&fire=A1EB02"/>
+</p>
 
 ***
 
