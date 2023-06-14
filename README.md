@@ -20,6 +20,14 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
+[![greeenboi's GitHub | Stats](https://stats.quine.sh/greeenboi/github?theme=dark)](https://quine.sh)
+
+***
+
+[![greeenboi's GitHub | Topics](https://stats.quine.sh/greeenboi/topics-over-time?theme=dark)](https://quine.sh)
+
+***
+
 
   Skills
 
