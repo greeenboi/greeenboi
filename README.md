@@ -91,6 +91,7 @@ You can click the Preview link to take a look at your changes.
 ## Contact me:
 
 <a href="https://suvan.netlify.app/">My Website</a>
+<a href="https://pdf.ac/1B5JKO">My Resume </a>
 
  
  
