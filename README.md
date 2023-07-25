@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=greeenboi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=greeenboi&row=2&column=4&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ***
 
