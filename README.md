@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=greeenboi)
+![](https://komarev.com/ghpvc/?username=greeenboi)[![wakatime](https://wakatime.com/badge/user/d739e0fd-c5e5-4834-8adc-2f9e8c6a1547.svg)](https://wakatime.com/@d739e0fd-c5e5-4834-8adc-2f9e8c6a1547)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=999&color=8A04ED&width=1100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+greeenboi;%F0%9F%91%80+I%E2%80%99m+interested+in+deep+learning+and+web+development;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+python+and+rust;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+web+development)](https://git.io/typing-svg)
 <h2>
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
-[![Suvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=greeenboi)]
+[![Suvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreenArcade)]
 
 ***
 
