@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <p float = "left">  
-<img height="250em" width="500em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&theme=synthwave"/> <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=greeenboi&text_bold&count_private=true&show_icons=true&layout=compact&theme=synthwave"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=greeenboi&theme=synthwave&fire=A1EB02"/>
+<img height="250em" width="500em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&theme=jolly"/> <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=greeenboi&text_bold&count_private=true&show_icons=true&layout=compact&theme=jolly"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=greeenboi&theme=jolly&fire=A1EB02"/>
 </p>
 
-![](https://github-contributor-stats.vercel.app/api?username=greeenboi&limit=6&theme=synthwave&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=greeenboi&limit=6&theme=jolly&combine_all_yearly_contributions=true)
 
 ***
 
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
-[![Suvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreenArcade)]
+![Suvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreenArcade&theme=jolly)
 
 ***
 
