@@ -42,6 +42,10 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
+[![Suvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=greeenboi)]
+
+***
+
   Skills
 
 |Domains|Data|
