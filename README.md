@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=999&color=8A04ED&width=1100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+greeenboi;%F0%9F%91%80+I%E2%80%99m+interested+in+NLP+CV+and+web+development;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+DevOps;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+web+development)](https://git.io/typing-svg)
 <h2>
 <p align="center">
-  <b>Student,AI/ML enthusiast</b>
+  <b>2nd Year Student @ SRMIST ,AI/ML enthusiast</b>
 </p>
 </h2>
 
