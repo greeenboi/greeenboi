@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p float = "left">  
 <img height="250em" width="500em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&theme=jolly"/> <img height="220em" src="https://api.githubtrends.io/user/svg/greeenboi/langs?time_range=one_year&include_private=True&compact=True&theme=synthwaves"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=greeenboi&theme=jolly&fire=A1EB02"/>
+<img src="https://api.githubtrends.io/user/svg/greeenboi/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves" />
 </p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=greeenboi&limit=6&theme=jolly&combine_all_yearly_contributions=true)
