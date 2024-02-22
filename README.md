@@ -68,6 +68,10 @@ You can click the Preview link to take a look at your changes.
 ## Achievements
 
 <a href ="https://www.credly.com/badges/44ac2fcd-0d6d-46a6-9942-439e68afaf66/public_url"><img src="https://user-images.githubusercontent.com/118198968/226444495-c37c2eb8-63e7-4320-9ff0-5cb526e4a4e7.png" style="width:300px;height:300px;"></a><img src="https://user-images.githubusercontent.com/118198968/227723940-65f60bd8-024c-48a8-812b-6da679eaaf91.png" style="width:240;height:290px;"><img src="https://user-images.githubusercontent.com/118198968/236622308-1fbc26ff-0f8a-4de5-aa0f-bcf0b07c6fb7.png" style="width:240;height:290px;"><img src="https://github.com/greeenboi/greeenboi/assets/118198968/c6481fa0-c455-4ab7-ad84-f20df7f0164b" style="height:300px" >
+<a href="https://www.credly.com/badges/259da5f8-1b1e-43ac-915f-8227fb673bea/public_url">
+<img src="https://github.com/greeenboi/greeenboi/assets/118198968/15312ae1-af6d-4e43-be10-05d7fd861431" style="width:300px;height:300px;"/>
+</a>
+
 
 
 
