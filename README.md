@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=greeenboi)[![wakatime](https://wakatime.com/badge/user/d739e0fd-c5e5-4834-8adc-2f9e8c6a1547.svg)](https://wakatime.com/@d739e0fd-c5e5-4834-8adc-2f9e8c6a1547)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=999&color=8A04ED&width=1100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+greeenboi;%F0%9F%91%80+I%E2%80%99m+interested+in+NLP+CV+and+web+development;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+DevOps;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+web+development)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=999&color=8A04ED&width=1100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+greeenboi;%F0%9F%91%80+I%E2%80%99m+interested+in+SysDesign+DevOps+and+Rust;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rails;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+development)](https://git.io/typing-svg)
 <h2>
 <p align="center">
-  <b>2nd Year Student @ SRMIST ,AI/ML enthusiast</b>
+  <b>3rd Year Student @ SRMIST</b>
 </p>
 </h2>
 
@@ -51,18 +51,6 @@ You can click the Preview link to take a look at your changes.
 [![An image of @greeenboi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/greeenboi)](https://holopin.io/@greeenboi)
 
 ***
-
-  Skills
-
-|Domains|Data|
-|----|----|
-|Languages|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">|
-|Tools & Software|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">|
-  
-
-  
-***
-
 
 
 ## Achievements
