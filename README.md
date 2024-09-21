@@ -59,6 +59,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/badges/259da5f8-1b1e-43ac-915f-8227fb673bea/public_url">
 <img src="https://github.com/greeenboi/greeenboi/assets/118198968/15312ae1-af6d-4e43-be10-05d7fd861431" style="width:300px;height:300px;"/>
 </a>
+<a href="https://www.credly.com/badges/647f1acf-d7a5-41cd-ac83-9749b9ebcc82/public_url">
+<img src="https://github.com/user-attachments/assets/7f8d26d9-f74b-47a2-ac74-6b820eb44dfb" style="width:300px;height:300px"/>
+</a>
 
 
 
