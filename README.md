@@ -62,6 +62,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/badges/647f1acf-d7a5-41cd-ac83-9749b9ebcc82/public_url">
 <img src="https://github.com/user-attachments/assets/7f8d26d9-f74b-47a2-ac74-6b820eb44dfb" style="width:300px;height:300px"/>
 </a>
+<a href="https://rhtapps.redhat.com/verify?certId=240-226-365">
+<img src="https://github.com/user-attachments/assets/5be835ad-a873-45ed-bc0f-0649825720ee" style="width:300px;height:300px"/>
+</a>
 
 
 
