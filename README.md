@@ -75,8 +75,7 @@ You can click the Preview link to take a look at your changes.
 ## Contact me:
 
   
-<a href="https://suvan.netlify.app/">My Website</a>
-<a href="https://pdf.ac/1B5JKO">My Resume </a>
+<a href="https://suvangs.tech">My Website</a>
 <a href="https://peerlist.io/greeeboi"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
 
 ***
