@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=greeenboi&row=2&column=4&theme=tokyonight&margin-w=4)](https://github.com/greeenboi)
+[![trophy](https://github-trophies.vercel.app/?username=greeenboi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/greeenboi)
 
 ***
 
