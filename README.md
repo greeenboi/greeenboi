@@ -26,24 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-trophies.vercel.app/?username=greeenboi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/greeenboi)
 
-***
-
-[![greeenboi's GitHub | Stats](https://stats.quine.sh/greeenboi/github?theme=dark)](https://quine.sh)
-
-***
-
-[![greeenboi's GitHub | Topics](https://stats.quine.sh/greeenboi/topics-over-time?theme=dark)](https://quine.sh)
-
-***
-
-[![greeenboi's GitHub | Dependencies](https://stats.quine.sh/greeenboi/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=greeenboi)
-
-***
-
-[![greeenboi's GitHub | Languages Over Time](https://stats.quine.sh/greeenboi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=greeenboi)
-
-***
-
 ![Suvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreenArcade&theme=jolly)
 
 ***
