@@ -2,7 +2,7 @@
 <a href="https://suvangs.tech">
   <img height="22" src="https://img.shields.io/badge/Website-suvangs.tech-blue?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
-<a href="https://peerlist.io/greeeboi">
+<a href="https://peerlist.io/greeenboi">
   <img height="22" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/peerlist.svg" />
 </a>
 
