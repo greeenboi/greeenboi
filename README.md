@@ -1,4 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=greeenboi) [![wakatime](https://wakatime.com/badge/user/d739e0fd-c5e5-4834-8adc-2f9e8c6a1547.svg)](https://wakatime.com/@d739e0fd-c5e5-4834-8adc-2f9e8c6a1547)
+<a href="https://suvangs.tech">
+  <img height="22" src="https://img.shields.io/badge/Website-suvangs.tech-blue?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="https://peerlist.io/greeeboi">
+  <img height="22" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/peerlist.svg" />
+</a>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=999&color=8A04ED&width=1100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+greeenboi;%F0%9F%91%80+I%E2%80%99m+interested+in+SysDesign+DevOps+and+Rust;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rails;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+development)](https://git.io/typing-svg)
 
@@ -12,14 +18,9 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%" colspan="2">
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&rank_icon=percentile&theme=jolly&include_all_commits=true" />
-
-</td>
-<td width="50%">
-
-<img width="100%" src="https://api.githubtrends.io/user/svg/greeenboi/langs?time_range=one_year&include_private=True&compact=True&theme=synthwaves" />
 
 </td>
 </tr>
@@ -27,19 +28,14 @@
 <!---
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=greeenboi&theme=jolly&fire=A1EB02" />
 --->
-<td width="100%" colspan="2">
+<td width="50%" colspan="2">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=GreenArcade&theme=jolly&layout=compact" />
+<img height="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=GreenArcade&theme=jolly&layout=compact" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-<img width="100%" src="https://api.githubtrends.io/user/svg/greeenboi/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=synthwaves" />
-
-</td>
-<td width="50%">
+<td width="100%" colspan="2">
 
 <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=greeenboi&limit=6&theme=jolly&combine_all_yearly_contributions=true" />
 
@@ -49,19 +45,11 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
   
 [![trophy](https://github-trophies.vercel.app/?username=greeenboi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/greeenboi)
 
 </div>
-
----
-
-## 🎖️ Achievements & Certifications
 
 <div align="center">
 
@@ -105,33 +93,6 @@
 </table>
 
 </div>
-
----
-
-## 🎯 Holopin Badges
-
-<div align="center">
-  
-[![Holopin Badges](https://holopin.me/greeenboi)](https://holopin.io/@greeenboi)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-### 📱 Social Links
-<a href="https://suvangs.tech">
-  <img src="https://img.shields.io/badge/🌐_Website-suvangs.tech-blue?style=for-the-badge&logo=safari&logoColor=white" />
-</a>
-<a href="https://peerlist.io/greeeboi">
-  <img height="44" src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg" />
-</a>
-
-### 🌍 Visitor Statistics
-<img src="https://s11.flagcounter.com/count2/R77M/bg_636363/txt_FFFFFF/border_02EBA5/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
 
 </div>
 
