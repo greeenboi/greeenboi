@@ -12,39 +12,6 @@
   <b>🎓 Senior @ SRMIST</b>
 </h2>
 
----
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%" colspan="2">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=greeenboi&count_private=true&show_icons=true&rank_icon=percentile&theme=jolly&include_all_commits=true" />
-
-</td>
-</tr>
-<tr>
-<!---
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=greeenboi&theme=jolly&fire=A1EB02" />
---->
-<td width="50%" colspan="2">
-
-<img height="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=GreenArcade&theme=jolly&layout=compact" />
-
-</td>
-</tr>
-<tr>
-<td width="100%" colspan="2">
-
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=greeenboi&limit=6&theme=jolly&combine_all_yearly_contributions=true" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <div align="center">
   
 [![trophy](https://github-trophies.vercel.app/?username=greeenboi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/greeenboi)
