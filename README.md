@@ -32,23 +32,10 @@
 <img src="https://github.com/user-attachments/assets/7f8d26d9-f74b-47a2-ac74-6b820eb44dfb" width="50" height="50">
 </a>
 </td>
-</tr>
-<tr>
 <td align="center">
 <a href="https://rhtapps.redhat.com/verify?certId=240-226-365">
 <img src="https://github.com/user-attachments/assets/5be835ad-a873-45ed-bc0f-0649825720ee" width="50" height="50">
 </a>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/118198968/227723940-65f60bd8-024c-48a8-812b-6da679eaaf91.png" width="50" height="50">
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/118198968/236622308-1fbc26ff-0f8a-4de5-aa0f-bcf0b07c6fb7.png" width="50" height="50">
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<img src="https://github.com/greeenboi/greeenboi/assets/118198968/c6481fa0-c455-4ab7-ad84-f20df7f0164b" height="50">
 </td>
 </tr>
 </table>
